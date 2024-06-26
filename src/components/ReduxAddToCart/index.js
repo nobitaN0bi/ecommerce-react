@@ -1,1 +1,1 @@
-export {default} from "./ReducAddToCart";
+export {default} from "./ReduxAddToCart";
